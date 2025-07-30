@@ -296,10 +296,6 @@ Found a bug or want to add a feature? Contributions are welcome!
 4. **Push** to the branch (`git push origin feature/amazing-feature`)
 5. **Open** a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⭐ Support
 
 If this script helps you stay organized, please consider:
@@ -308,6 +304,3 @@ If this script helps you stay organized, please consider:
 - 💡 **Suggesting** new features
 - 📢 **Sharing** with others who might benefit
 
----
-
-**Made with ❤️ for productivity enthusiasts**
